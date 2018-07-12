@@ -1,2 +1,2 @@
-connection is good
+connection is good but using SSH now
 test
